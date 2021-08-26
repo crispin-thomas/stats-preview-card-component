@@ -132,7 +132,7 @@ body {
   .image-color {
     background-image: url("./images/image-header-mobile.jpg");
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: rgb(99, 47, 129);
     background-blend-mode: soft-light;
     width: 100%;
